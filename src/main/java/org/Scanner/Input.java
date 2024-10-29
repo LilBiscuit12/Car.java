@@ -26,6 +26,7 @@ public class Input {
             System.out.println("Lo siento compai, este no eres tú. This pc will explote");
         }
         sc.close();
+        //Realizamos cambios
     }
 
 }
