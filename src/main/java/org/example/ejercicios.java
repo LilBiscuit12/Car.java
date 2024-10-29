@@ -3,11 +3,14 @@ package org.example;
 import java.util.Scanner;
 
 public class ejercicios {
-// Programa que lea una cantidad de grados centígrados y la pase a grados Fahrenheit.
-//La fórmula correspondiente para pasar de grados centígrados a fahrenheit es:
-//F = 32 + ( 9 * C / 5)
+// 5. Programa que lee por teclado el valor del radio de una circunferencia y calcula y muestra
+//por pantalla la longitud y el área de la circunferencia.
+//Longitud de la circunferencia = 2*PI*Radio, Area de la circunferencia = PI*Radio^2
 
-    public static void main(String[] args) {
+
+
+
+    /*public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double gradosC, gradosF;
         System.out.println("Type Celsius");
@@ -15,7 +18,7 @@ public class ejercicios {
         gradosC = sc.nextDouble();
         gradosF = 32 + ( 9 * gradosC / 5);
         System.out.println(gradosC + "ªC =" + gradosF + "ªF");
-    }
+    }*/
 
     /*public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
